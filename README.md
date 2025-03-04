@@ -51,21 +51,6 @@
   <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
-<br><br><br>
-
-### 导出订阅
-
-
-- 图1：在机场购买订阅后，首页选择<code>一键订阅</code>
-- 图2：选择<code>导入到Shadowrocket</code>
-- 图3：将自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
-- 图4：选择<code>允许</code>即可联网
-
-<picture>
-  <source media="(max-width: 510px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/33.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/33.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
-</picture>
-
 <br>
 
 ##
