@@ -34,7 +34,7 @@
 - 图3：进入账户<code>拉到底</code>
 - 图4：选择<code>退出登录</code>退出自己的账号
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" width="50%" style="height: auto;">
+<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" height="50%" style="width: auto;">
 
 <br><br><br>
 
