@@ -55,16 +55,7 @@
 - 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
 - 图4：选择<code>允许</code>即可联网
 
-
-
-
-<iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" 
-        width="100%" 
-        height="1000px" 
-        scrolling="no"
-        style="border: none;">
-</iframe>
-
+<img src="./images/ios/3.jpg" width="100%">
 
 
 
