@@ -56,13 +56,7 @@
 - 图4：选择<code>允许</code>即可联网
 
 
-<img src="./images/ios/3.jpg" width="100%">
 
-<br><br><br>
-
-<!--access start--><!-- 美区ID仅为有效用户显示 -->
-
-<hr style="border: 2px solid #0033;"> 
 
 <iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" 
         width="100%" 
@@ -71,9 +65,6 @@
         style="border: none;">
 </iframe>
 
-<hr style="border: 2px solid #0033;"> 
-
-<!--access end-->
 
 
 
