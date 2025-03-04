@@ -28,6 +28,58 @@
 <br>
 
 ## 建设中...
+### iOS和MacOS安装Shadowrocket 教程
+
+- 图1：选择<code>App Store</code>苹果商店
+- 图2：商店首页右上角<code>图标</code>
+- 图3：进入账户<code>拉到底</code>
+- 图4：选择<code>退出登录</code>退出自己的账号
+
+<img src="./images/ios/1111.jpg" width="100%">
+
+<br><br><br>
+
+- 图5：美账号在底部复制登录
+- 图6：选择<code>其他选项</code> <code>不升级</code>
+- 图7：登录成功
+- 图8：搜索安装 <code>Shadowrocket</code> 代理工具
+
+<img src="./images/ios/2.jpg" width="100%">
+
+<br><br><br>
+
+### 导出订阅
+
+
+- 图1：购买订阅后，在本站首页<code>导出订阅</code>
+- 图2：选择<code>导入到Shadowrocket</code>
+- 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
+- 图4：选择<code>允许</code>即可联网
+
+
+<img src="./images/ios/3.jpg" width="100%">
+
+<br><br><br>
+
+<!--access start--><!-- 美区ID仅为有效用户显示 -->
+
+<hr style="border: 2px solid #0033;"> 
+
+<iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" 
+        width="100%" 
+        height="1000px" 
+        scrolling="no"
+        style="border: none;">
+</iframe>
+
+<hr style="border: 2px solid #0033;"> 
+
+<!--access end-->
+
+
+
+
+
 <br>
 
 ##
