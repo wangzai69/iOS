@@ -62,7 +62,7 @@
 - 图4：选择<code>允许</code>即可联网
 
 <picture>
-  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 100%;">
+  <source media="(max-width: 510px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 100%;">
   <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
