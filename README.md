@@ -43,7 +43,7 @@
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
 
-<img src="./images/ios/2.jpg" width="100%">
+<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" width="100%">
 
 <br><br><br>
 
