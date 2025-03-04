@@ -35,8 +35,8 @@
 - 图4：选择<code>退出登录</code>退出自己的账号
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/11.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/11.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 <br><br><br>
@@ -47,8 +47,8 @@
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
 
 <picture>
-  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <source media="(max-width: 980px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/22.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 <br><br><br>
@@ -62,8 +62,8 @@
 - 图4：选择<code>允许</code>即可联网
 
 <picture>
-  <source media="(max-width: 510px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <source media="(max-width: 510px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/33.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/33.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
 <br>
