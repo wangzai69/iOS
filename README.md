@@ -48,7 +48,7 @@
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 40%; display: block; margin: auto;">
 </picture>
 
 <br><br><br>
@@ -63,7 +63,7 @@
 
 <picture>
   <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 100%;">
-  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 30%; display: block; margin: auto;">
 </picture>
 
 <br>
