@@ -27,8 +27,7 @@
 
 <br>
 
-## 建设中...
-### iOS和MacOS安装Shadowrocket 教程
+## iOS和MacOS安装Shadowrocket 教程
 
 - 图1：选择<code>App Store</code>苹果商店
 - 图2：商店首页右上角<code>图标</code>
