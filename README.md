@@ -55,7 +55,7 @@
 - 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
 - 图4：选择<code>允许</code>即可联网
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" width="100%" style="height: auto;">
+<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" width="50%" style="height: auto;">
 
 
 
