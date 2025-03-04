@@ -38,7 +38,7 @@
 
 <br><br><br>
 
-- 图5：美账号在底部复制登录
+- 图5：登录美区ID账密
 - 图6：选择<code>其他选项</code> <code>不升级</code>
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
@@ -50,9 +50,9 @@
 ### 导出订阅
 
 
-- 图1：购买订阅后，在本站首页<code>导出订阅</code>
+- 图1：在机场购买订阅后，首页选择<code>一键订阅</code>
 - 图2：选择<code>导入到Shadowrocket</code>
-- 图3：自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
+- 图3：将自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
 - 图4：选择<code>允许</code>即可联网
 
 <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" width="50%" style="height: auto;">
