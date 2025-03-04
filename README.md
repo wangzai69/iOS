@@ -39,8 +39,6 @@
   <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/1.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
 </picture>
 
-
-
 <br><br><br>
 
 - 图5：登录美区ID账密
@@ -48,7 +46,10 @@
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" width="50%" style="height: auto;">
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/2.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+</picture>
 
 <br><br><br>
 
@@ -60,12 +61,10 @@
 - 图3：将自动跳转到Shadowrocket，开启代理开关时弹出对话框选<code>好</code>
 - 图4：选择<code>允许</code>即可联网
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" width="50%" style="height: auto;">
-
-
-
-
-
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 100%;">
+  <img src="https://github.com/wangzai69/shadowrocket/blob/main/images/3.jpg?raw=true" style="width: 50%; display: block; margin: auto;">
+</picture>
 
 <br>
 
