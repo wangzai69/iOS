@@ -34,7 +34,7 @@
 - 图3：进入账户<code>拉到底</code>
 - 图4：选择<code>退出登录</code>退出自己的账号
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/111.jpg?raw=true" style="max-width: 100%; height: auto;">
+![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/11111.jpg?raw=true)
 
 <br><br><br>
 
@@ -43,7 +43,7 @@
 - 图7：登录成功
 - 图8：搜索安装 <code>Shadowrocket</code> 代理工具
 
-<img src="https://github.com/wangzai69/shadowrocket/blob/main/images/222.jpg?raw=true" style="max-width: 100%; height: auto;">
+![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/22222.jpg?raw=true)
 
 <br>
 <br>
