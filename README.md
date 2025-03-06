@@ -36,7 +36,7 @@
 
 ![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/11111.jpg?raw=true)
 
-<br><br><br>
+<br><br>
 
 - 图5：[获取免费美区ID](https://github.com/wangzai69/AppStoreID)并登录
 - 图6：选择<code>其他选项</code> <code>不升级</code>
@@ -47,7 +47,6 @@
 
 Shadowrocket是一个代理工具，需要搭配购买的节点才能正常使用，如需要节点请前往自己心仪的节点供应商那里购买 → [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
-<br>
 <br>
 
 ##
