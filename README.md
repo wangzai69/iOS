@@ -32,7 +32,7 @@ Shadowrocket是一个代理工具，需要搭配购买的节点才能正常使�
 
 <br>
 
-众所周知小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用国外的苹果ID登录商店才能下载，这里需要注意要在AppStore登录ID，而不是在手机设置的iCloud里登录。
+小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用国外的苹果ID登录商店才能下载，这里需要注意要在AppStore登录ID，而不是在手机设置的iCloud里登录。
 - 图1：选择<code>App Store</code>苹果商店
 - 图2：商店首页右上角<code>图标</code>
 - 图3：进入账户<code>拉到底</code>
