@@ -28,7 +28,7 @@
 <br>
 
 ## iOS和MacOS安装Shadowrocket 教程
-
+众所周知小火箭的真实名称是Shadowrocket，只有国外苹果商店才能下载正版，就需要用到国外的苹果ID登录商店才能下载正版国外app，Shadowrocket是一个代理工具，需要搭配购买的节点才能正常使用，如果需要节点请前往自己心仪的节点供应商那里购买 → [2025精选翻墙机场科学上网梯子节点（终结篇）实时更新](https://github.com/wangzai69/vpn)
 - 图1：选择<code>App Store</code>苹果商店
 - 图2：商店首页右上角<code>图标</code>
 - 图3：进入账户<code>拉到底</code>
